@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+
+}
+
+#titulogrande{
+    font-family: fantasy;
+    text-align: center;
+    color: crimson;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
